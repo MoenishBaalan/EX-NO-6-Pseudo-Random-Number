@@ -17,8 +17,8 @@ rand(time(0));
 
 # PROGRAM
 ```
-NAME: RAGUL RAAJAN T
-REG NO: 212223100043
+NAME: Moenish Baalan G
+REG NO: 212223220057
 
 #include <stdio.h>
 #include <stdlib.h>
